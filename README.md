@@ -10,6 +10,8 @@ git clone https://github.com/hcyrh/Emotion-Detection.git
 ## Project Intro/Objective
 The main purpose of this project is to successfully detect the emotional state of any person in a photo. We originally thought of this idea in hopes to help those with a form of Autism, such as Asperger's Syndrome, to facilitate their ability to depict the emotional state of the individual they're interacting with. The ultimate goal of this project is to create a simple mobile application where one can point to an individual, and it tells you the emotional state of the opponent in real time. 
 ## Contributors
+Rachel Han 
+
 Jennifer Black (jblack1@sandiego.edu)
 
 Jessica Robledo (jessicarobledo@sandiego.edu)
