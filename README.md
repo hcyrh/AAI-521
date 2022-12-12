@@ -28,4 +28,6 @@ FER uses geometric based technique for expression recognition, which uses facial
 ## License
 See License
 ## Acknowledgements 
-We would like to thank Dr. Roozbeh Sadeghian for an amazing semester!
+https://github.com/justinshenk/fer
+
+--We would like to thank Dr. Roozbeh Sadeghian for an amazing semester!
