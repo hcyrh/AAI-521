@@ -25,6 +25,10 @@ Python
 This project utilized the FER-2013 dataset, which contains approximately 30,000 facial RGB images of different expressions, and the main labels of it are divided into 7 types: 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral. The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centered and occupies about the same amount of space in each image. The training set consists of 28,709 examples and the public test set consists of 3,589 examples.
 
 FER uses geometric based technique for expression recognition, which uses facial landmarks to define vectors used in feature extraction. These vectors can be measurements of distances between different parts of the face, facial angles, curvatures, etc. These measurements are then compared to other faces to learn to identify the emotional classes. Another option could have been to use the appearance-based technique, which uses pixel intensities, meaning it can be affected by lighting and is difficult to troubleshoot. The code we used takes advantage of OpenCV’s cascade classifier to detect the faces and the landmarks that are used in defining the vectors. A kernel goes through all parts of an image and scans for faces by passing them through a sequence of simple to complex face classifiers.
+
+Reference link to trained models:
+https://drive.google.com/drive/folders/1o4W7UcYDWwuBDTWoys-424JyQHjP4Z9a?usp=sharing
+
 ## License
 See License
 ## Acknowledgements 
